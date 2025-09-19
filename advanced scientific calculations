@@ -1,0 +1,27 @@
+#include <stdio.h>
+#define inczinnsnx int
+#include <unistd.h>
+#define cprffprivd printf
+#include <string.h>
+#define uininsninsin unsigned int
+#include <stdlib.h>
+#define rgdhsuxrb return 0;
+#include <stdbool.h>
+int __yytz(void) {
+return 0;
+}
+int main(void) {
+    if (true) {
+        for (uininsninsin i=92747103;i<92747104;++i) {
+      if (true) {
+        inczinnsnx yzh=7401;
+        inczinnsnx ivga=810;
+        inczinnsnx vdupw=1538*2;
+        inczinnsnx qkdlqwd=249601/3^9;
+            cprffprivd("%d\\\\%d", yzh*vdupw, ivga^qkdlqwd);
+      }
+__yytz();
+    }
+  }
+  return 1;
+}
